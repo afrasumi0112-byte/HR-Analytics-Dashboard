@@ -11,11 +11,11 @@ The objective of this project is to analyze employee data and build an **HR Anal
 This dashboard enables HR teams and management to make **data-driven decisions** to reduce attrition, improve retention, and enhance employee engagement.
 
 ---
-📂 **Dataset Used** 
+## 📂Dataset Used 
 - <a href="https://github.com/afrasumi0112-byte/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20data.xlsx">HR Dataset</a>
 
-👨‍💻 **Tools Used** 
-           Tableau
+## 👨‍💻Tools Used
+         Tableau
            
 ## 📌 KPI Requirements (Business Questions Answered)  
 The dashboard was designed to answer the following key HR-related questions:  
@@ -48,6 +48,8 @@ The dashboard was designed to answer the following key HR-related questions:
 - Combined visualizations into an **interactive dashboard**  
 
 ---
+## Dashboard Using Tableau
+<img width="1184" height="682" alt="HR Analytics Dashboard" src="https://github.com/user-attachments/assets/9531ec3f-d021-47af-bdd7-e6824ad37170" />
 
 ## 📈 Project Insights  
 - The overall **attrition rate is 16.12%**.  
